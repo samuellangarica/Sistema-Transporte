@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "265179048521",
+    "firebase_url": "https://sistematransporte-5d4d7-default-rtdb.firebaseio.com",
+    "project_id": "sistematransporte-5d4d7",
+    "storage_bucket": "sistematransporte-5d4d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265179048521:android:1e0aa319a6cda87a566d98",
+        "android_client_info": {
+          "package_name": "sams.android.qrscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxd9xUdA67TFU-9QuYmD29u7Zr36FkxK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

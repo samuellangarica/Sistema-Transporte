@@ -1,0 +1,1 @@
+package sams.android.qrscanner.functions
